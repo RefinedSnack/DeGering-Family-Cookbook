@@ -1,1 +1,2 @@
-# DeGering-Family-Cookbook
+# README
+This is the DeGering Family Cookbook. Welcome!
