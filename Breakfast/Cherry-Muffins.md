@@ -1,4 +1,4 @@
-# Cherry Muffins
+# Cherry-Muffins
 ---
 ### Ingredients
 - 1 cup Flour
@@ -20,4 +20,4 @@
 4) Fold Dry Ingredients into Wet Ingredients
 5) Fold in Cherries
 6) Scoop into lined/greased muffin cups
-7) Bake for 22-25 min or until it passes the [[Toothpick Test]]
+7) Bake for 22-25 min or until it passes the [[Toothpick-Test]]

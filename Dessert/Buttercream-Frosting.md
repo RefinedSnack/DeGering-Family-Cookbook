@@ -1,4 +1,4 @@
-# Buttercream Frosting
+# Buttercream-Frosting
 ---
 ### Ingredients
 - 1 cup Butter (Room temp)

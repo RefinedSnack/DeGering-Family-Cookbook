@@ -1,4 +1,4 @@
-# Chocolate Chip Cookies
+# Chocolate-Chip-Cookies
 ---
 ### Ingredients
 - 1/2 cup Butter

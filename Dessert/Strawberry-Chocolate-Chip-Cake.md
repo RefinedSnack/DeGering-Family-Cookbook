@@ -1,4 +1,4 @@
-# Strawberry Chocolate Chip Cake
+# Strawberry-Chocolate-Chip-Cake
 ---
 ### Ingredients Strawberry Pureé
 - 32 oz Whole Strawberries
@@ -36,6 +36,6 @@
 4) Add to Milk, Eggs, and Vegetable Oil to Butter-Sugar mixture (Blend well)
 5) Fold in Dry Ingredients
 6) Add Strawberry Reduction (cooled to near room temp) and Chocolate Chips
-7) Bake for 45 min or until it passes the [[Toothpick Test]] (25 min for cupcakes)
+7) Bake for 45 min or until it passes the [[Toothpick-Test]] (25 min for cupcakes)
 
-Goes well with [Buttercream Frosting]
+Goes well with [[Buttercream-Frosting]] [link](Buttercream-Frosting.md)
