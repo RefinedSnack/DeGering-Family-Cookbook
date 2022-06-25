@@ -38,4 +38,4 @@
 6) Add Strawberry Reduction (cooled to near room temp) and Chocolate Chips
 7) Bake for 45 min or until it passes the [[Toothpick Test]] (25 min for cupcakes)
 
-Goes well with [[Buttercream Frosting]]
+Goes well with [Buttercream Frosting]
