@@ -7,7 +7,7 @@
 - 1 tsp Salt
 
 ---
-### Instructions For Strawberry Pureé
+### Strawberry Pureé Assembly
 1) Blend strawberries (about 32 oz should result in 16 oz blended)
 2) Over High Heat in saucepan combine Sugar, Lemon Juice, Blended strawberries (Add water as needed if mixture is dry)
 3) Bring to boil
@@ -29,13 +29,13 @@
 - Strawberry Pureé
 
 ---
-### Instructions For Cake Batter
+### Cake Batter Assembly
 1) Preheat oven to 350$\degree F$
 2) Cream Butter, Brown Sugar, 1/2 Cup White Sugar
 3) In separate bowl sift together Dry Ingredients (Baking Powder, Salt, Flour)
 4) Add to Milk, Eggs, and Vegetable Oil to Butter-Sugar mixture (Blend well)
 5) Fold in Dry Ingredients
 6) Add Strawberry Reduction (cooled to near room temp) and Chocolate Chips
-7) Bake for 45 min or until toothpick comes out clean (25 min for cupcakes)
+7) Bake for 45 min or until it passes the [[Toothpick Test]] (25 min for cupcakes)
 
 Goes well with [[Buttercream Frosting]]
