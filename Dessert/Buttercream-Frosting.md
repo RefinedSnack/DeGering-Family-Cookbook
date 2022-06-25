@@ -13,5 +13,6 @@
 3) If assembly is wet add more Powdered Sugar
 4) If assembly tastes bland add salt
 5) If assembly tastes flat or need to be more rich add Vanilla
-6) Add dye or flavoring, if using a flavor balance with Vanilla
+6) Add dye or flavors
+7) Be careful to not over-mix the frosting
 
