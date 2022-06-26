@@ -1,13 +1,13 @@
 # Strawberry-Chocolate-Chip-Cake
 ---
-### Ingredients Strawberry Pureé
+### Ingredients Strawberry Reduction
 - 32 oz Whole Strawberries
 - 1 tsp Lemon Juice
 - 2 cup White Sugar
 - 1 tsp Salt
 
 ---
-### Strawberry Pureé Assembly
+### Strawberry Reduction Assembly
 1) Blend strawberries (about 32 oz should result in 16 oz blended)
 2) Over High Heat in saucepan combine Sugar, Lemon Juice, Blended strawberries (Add water as needed if mixture is dry)
 3) Bring to boil
@@ -26,7 +26,7 @@
 - 1 cup Whole Milk
 - 5 Eggs (Room Temp)
 - 1 + 1/2 cup Chocolate Chips (yummy)
-- Strawberry Pureé
+- Strawberry Reduction
 
 ---
 ### Cake Batter Assembly
