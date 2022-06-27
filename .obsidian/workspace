@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "728dfcdd23e2722c",
+    "type": "split",
+    "children": [
+      {
+        "id": "57816726e1d6f493",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODO-List.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f2abdf51d2bbf658",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dinner/Hamburgers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a796536e66aa2e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdeef2862962446a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "172590677094eaa5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "77ea4a0c8730d428",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abd415e9ba4ae21f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3dfdbf24bf7dae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9193fefb1f939ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO-List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "57816726e1d6f493",
+  "lastOpenFiles": [
+    "TODO-List.md",
+    "README.md",
+    "Untitled.md",
+    "Dinner/Spaghetti-and-Meatballs.md",
+    "Dinner/Meatballs.md",
+    "Dinner/Stuffed-Peppers.md",
+    "Dinner/Toasted-Sesame-Chicken-Tacos.md",
+    "Dinner/Hamburgers.md",
+    "Dinner/Tomato-Pasta-Sauce.md",
+    "Toothpick-Test.md"
+  ]
+}

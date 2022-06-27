@@ -1,21 +1,22 @@
 # Strawberry-Chocolate-Chip-Cake
 ---
-### Ingredients Strawberry Reduction
+### Strawberry Reduction Ingredients
 - 32 oz Whole Strawberries
 - 1 tsp Lemon Juice
 - 2 cup White Sugar
 - 1 tsp Salt
+- 1/4 tsp Citric Acid
 
 ---
 ### Strawberry Reduction Assembly
 1) Blend strawberries (about 32 oz should result in 16 oz blended)
-2) Over High Heat in saucepan combine Sugar, Lemon Juice, Blended strawberries (Add water as needed if mixture is dry)
+2) Over High Heat in saucepan combine Sugar, Salt, Citric Acid Lemon Juice, Blended strawberries (Add water as needed if mixture is dry)
 3) Bring to boil
 4) Reduce heat to lowest setting (simmer)
 5) Stir constantly until mixture turns a dark red and has a syrupy texture. Remove from head and set aside.
 
 ---
-### Ingredients Cake Batter
+### Cake Ingredients 
 - 1/2 cup of Butter
 - 1/2 cup of Brown Sugar
 - 1/2 cup White Sugar
@@ -29,7 +30,7 @@
 - Strawberry Reduction
 
 ---
-### Cake Batter Assembly
+### Cake Assembly
 1) Preheat oven to 350$\degree F$
 2) Cream Butter, Brown Sugar, 1/2 Cup White Sugar
 3) In separate bowl sift together Dry Ingredients (Baking Powder, Salt, Flour)

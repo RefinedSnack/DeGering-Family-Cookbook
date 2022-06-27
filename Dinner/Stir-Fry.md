@@ -1,7 +1,7 @@
 # Stir-Fry
 ---
 ### Ingredients
----
+
 ##### Meats and Veggies
 - 3 Chicken Breast
 - 1 cup Mushrooms
@@ -12,7 +12,6 @@
 - 1 cup Veggie Oil
 - 1 tsp Toasted Sesame Oil
 
----
 ##### Spices
 - 1/2 Tbsp Garlic powder
 - 1 Tbsp Ginger
